@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+
+.row {
+  display: flex;
+}
+
+div {
+  width: 500px;
+  height: 80px;
+  border: 1px solid blue;
+}
+
+.ploscha {
+  background-color: rgb(165, 165, 165);
+}
+
+.man {
+  background-color: rgb(255, 232, 104);
+}
+
+.derevo {
+  background-color: rgb(255, 35, 207);
+}
+
+#wrapper {
+  width: 99vw;
+  height: 99vh;
+  display: flex;
+  margin: 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
